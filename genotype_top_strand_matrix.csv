@@ -1,0 +1,11 @@
+,Sample_01,Sample_02,Sample_03,Sample_04,Sample_05,Sample_06,Sample_07,Sample_08,Sample_09,Sample_10
+Marker_01,AA,CC,--,AA,CC,CC,AC,CC,AA,AC
+Marker_02,CC,--,TT,TT,CC,CC,CT,CC,TT,CC
+Marker_03,TT,CC,CT,--,CC,CT,CT,CT,TT,CC
+Marker_04,CC,--,--,CC,AA,AC,AC,AA,AC,AC
+Marker_05,GG,AA,AG,GG,AA,AA,AA,AG,AA,AG
+Marker_06,TT,GG,GG,GT,GT,GT,GT,GG,GG,GT
+Marker_07,GT,GT,GT,GG,GT,GT,GG,GT,GT,GT
+Marker_08,CC,CC,--,CT,CC,CC,CC,CC,CT,CT
+Marker_09,AC,CC,AA,CC,AA,AC,CC,CC,AA,AA
+Marker_10,AG,GG,AA,AA,AA,--,AA,AA,AG,AA
