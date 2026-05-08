@@ -13,12 +13,12 @@ Converts missing data indicators (--) to the PLINK-standard missing genotype cod
 Outputs a long-format (LGEN) file suitable for downstream merging with sequencing data or other SNP datasets.
 
 #Prerequisites
-### Python: 3.x
+Python: 3.x
 
-### Input Format: A comma-separated values (.csv) file where:
+Input Format: A comma-separated values (.csv) file where:
 
-### The first row is a header containing sample IDs.
+The first row is a header containing sample IDs.
 
-### The first column contains Marker (SNP) names.
+The first column contains Marker (SNP) names.
 
-### The cells contain diploid genotypes (e.g., AA, AG, GG, or --).
+The cells contain diploid genotypes (e.g., AA, AG, GG, or --).
